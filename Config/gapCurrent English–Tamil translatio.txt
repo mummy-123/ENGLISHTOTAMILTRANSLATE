@@ -1,0 +1,14 @@
+ gap:Current English–Tamil translation tools lack contextual, cultural accuracy, offering only literal translations with , script, and it wont  gives suggestions . There is also a major gap in personalized learning, offline functionality, and real-time conversational translation
+
+
+product:The product is an AI-powered English-to-Tamil app that offers real-time context-aware translation, voice and chat interaction, offline access, OCR scanning, and culturally accurate outputs. It also includes a smart learning system with pronunciation guidance, quizzes, and gamified daily practice to help users build real conversational fluency.
+
+
+
+uniqueness:
+It works in an interactive way. It also works fully offline with downloadable language packs, making it reliable even in low-network regions
+
+
+
+correction:
+.The scope of this work is narrowly focused on creating a specialized English–Tamil translation and learning system, unlike broad multilingual translators. and we can use it in both offline and online mode

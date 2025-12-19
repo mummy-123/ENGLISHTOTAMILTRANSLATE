@@ -1,0 +1,6 @@
+An AI-powered English–Tamil app offering real-time voice/chat translation, offline mode, OCR text scanning, pronunciation guidance, and culturally accurate outputs.
+
+●	Usability
+& Accessibility
+●	● ISO 9241-210 (Human-Centred Design for Interactive Systems) – Ensures the English to Tamil Language Translator App with AI Assist delivers an intuitive, easy-to-use, and user-friendly interface for diverse users.
+●	● WCAG 2.2 (Web Content Accessibility Guidelines) – Provides guidelines to make the app accessible for users with disabilities, supporting readable text, voice output, captions, and inclusive interaction for all.
